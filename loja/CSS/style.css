@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Condensed&display=swap');
+.cabecalho {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem {
+    height: 72px;
+    display: flex;
+  
+}
+.botoes {
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.texto {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    padding-left: 23%;
+    padding-right: 23%;
+    text-align: justify;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 5px;
+}
+
+body {
+    background-color: #532275;
+}
+
